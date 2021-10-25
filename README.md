@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/carterax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterax&count_private=true&show_icons=true&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterax&count_private=true&show_icons=true&theme=gruvbox_light" />
 </a>
