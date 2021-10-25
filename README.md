@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**carterax/carterax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ikennaOj/ikennaOj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/carterax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterax&count_private=true&show_icons=true&theme=monokai" />
+<a href="https://github.com/ikennaOj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikennaOj&count_private=true&show_icons=true&theme=monokai" />
 </a>
 
-<a href="https://github.com/carterax/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterax&layout=compact&theme=monokai" />
+<a href="https://github.com/ikennaOj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikennaOj&layout=compact&theme=monokai" />
 </a>
