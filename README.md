@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/carterax">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterax&count_private=true&show_icons=true&theme=monokai" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterax)](https://github.com/carterax/github-readme-stats)
+<a href="https://github.com/carterax/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterax&theme=monokai" />
+</a>
