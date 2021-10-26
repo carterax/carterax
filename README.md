@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <h1 align="center"><b>Hello there, I'm Ikenna 🍻
+  <h1 align="center"><b>Hi there, I'm Ikenna 🍻
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ikenna-ojukwu-507997149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <p>Enthusiastic Fullstack Developer with 4 years of practical experience.</p>
 <br />
   
-<a href="https://github.com/ikennaOj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caterax&count_private=true&show_icons=true&theme=monokai" />
+<a href="https://github.com/carterax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterax&count_private=true&show_icons=true&theme=monokai" />
 </a>
 
-<a href="https://github.com/ikennaOj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterax&layout=compact&theme=monokai" />
+<a href="https://github.com/carterax/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterax&layout=compact&theme=monokai&count_private=true" />
 </a>
