@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<p>Enthusiastic Front End Developer with 4 years of practical experience.</p>
+<p>Enthusiastic Fullstack Developer with 4 years of practical experience.</p>
 <br />
   
 <a href="https://github.com/ikennaOj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikennaOj&count_private=true&show_icons=true&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caterax&count_private=true&show_icons=true&theme=monokai" />
 </a>
 
 <a href="https://github.com/ikennaOj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikennaOj&layout=compact&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterax&layout=compact&theme=monokai" />
 </a>
