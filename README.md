@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hi there, I'm Ikenna 🍻
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/carterax/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://carterax.dev"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-</p>
 <br />
 
 <p>Enthusiastic Fullstack Developer with 4 years of practical experience.</p>
