@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<p>Enthusiastic Fullstack Developer with 5 years of practical experience.</p>
+<p>Enthusiastic Fullstack Developer with 6 years of practical experience.</p>
 <br />
   
 <a href="https://github.com/carterax">
